@@ -1,2 +1,6 @@
 OSMPythonTools
 googlemaps
+beautifulsoup4
+selenium
+webdriver_manager
+# twint
