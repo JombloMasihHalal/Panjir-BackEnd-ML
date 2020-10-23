@@ -1,5 +1,8 @@
 OSMPythonTools
 googlemaps
+transformers
+conllu
+seqeval
 beautifulsoup4
 selenium
 webdriver_manager
